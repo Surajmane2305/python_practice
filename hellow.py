@@ -1,2 +1,1 @@
-print("Hellow")
-print("Word")
+print("Hellow Word")
