@@ -11,6 +11,3 @@ rev = ''
 for s in str:
     rev = s + rev
 print("Reversed string..", rev)
-
-
-#Make square
