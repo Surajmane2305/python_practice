@@ -11,3 +11,9 @@ rev = ''
 for s in str:
     rev = s + rev
 print("Reversed string..", rev)
+
+
+# Count Words in String
+str = 'my name is suraj'
+strls = str.split()
+print("Count..", len(strls))
